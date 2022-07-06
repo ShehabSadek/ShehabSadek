@@ -21,8 +21,10 @@ Currently a CS student at MIU, I'm very passionate about technology and gaining 
 <p>
 
 * C++ & Java: GUI apps
-* Web dev
+* Web dev & web hosting: heroku
 * DBMS
+* Python: sockets & networking
+
 
 </p>
 
