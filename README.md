@@ -21,14 +21,17 @@ Currently a CS student at MIU, I'm very passionate about technology and gaining 
 <p>
 
 * C++ & Java: GUI apps
-* Web dev & web hosting: heroku
 * DBMS
-* Python: sockets & networking
+* Image Processing & OpenCV
+* ML
+* Python
+* sockets & networking
+* Web dev & web hosting: heroku
 
 
 </p>
 
-📝 *[CV](https://drive.google.com/file/d/1Ycc9tCDQChD3JuAvUAzmmYi9Ph6TuS9b/view?usp=sharing).*
+📝 *[CV](https://drive.google.com/file/d/1Ycc9tCDQChD3JuAvUAzmmYi9Ph6TuS9b/view).*
 
 
 📈 **My GitHub Stats:**
