@@ -34,8 +34,9 @@ Currently a CS student at MIU, I'm very passionate about technology and gaining 
 📝 *[CV](https://drive.google.com/file/d/1Ycc9tCDQChD3JuAvUAzmmYi9Ph6TuS9b/view).*
 
 
-📈 **My GitHub Stats:**
+<!-- 📈 **My GitHub Stats:**
 <p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShehabSadek&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShehabSadek&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+ -->
